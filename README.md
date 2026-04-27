@@ -1,2 +1,3 @@
 # Dmart-Sales-Analysis
-This DMART Sales Analysis Dashboard provides a comprehensive overview of sales performance across cities, highlighting key metrics such as total revenue, orders, discounts, and customer count. It enables analysis of revenue trends, order status, customer demographics, and payment methods to support data-driven business decisions.
+• Designed an interactive dashboard to visualize sales, revenue, and order trends across  cities and product categories
+• Implemented KPIs, maps, and trend analysis charts (monthly & quarterly) to track performance and support data-driven decision-making
